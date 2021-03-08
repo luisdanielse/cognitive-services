@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "67Ybo2lNmpq/jc4xbiwJ7HURZWEuHoRJvvoislgUUWI+OyQ6fz5eFYtPl3j9AfDPbOFgbgAZliCx374sBR0Z6w==",
+  "success": true,
+  "projectFilePath": "E:\\visual-studiop\\AI-100\\DEMOS\\Speech\\speechToText.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.15.0\\microsoft.cognitiveservices.speech.1.15.0.nupkg.sha512",
+    "C:\\Users\\daniel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

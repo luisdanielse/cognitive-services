@@ -1,0 +1,17 @@
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\bin\Debug\netcoreapp3.1\textAnalytics.exe
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\bin\Debug\netcoreapp3.1\textAnalytics.deps.json
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\bin\Debug\netcoreapp3.1\textAnalytics.runtimeconfig.json
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\bin\Debug\netcoreapp3.1\textAnalytics.runtimeconfig.dev.json
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\bin\Debug\netcoreapp3.1\textAnalytics.dll
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\bin\Debug\netcoreapp3.1\textAnalytics.pdb
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\obj\Debug\netcoreapp3.1\textAnalytics.csprojAssemblyReference.cache
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\obj\Debug\netcoreapp3.1\textAnalytics.AssemblyInfoInputs.cache
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\obj\Debug\netcoreapp3.1\textAnalytics.AssemblyInfo.cs
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\obj\Debug\netcoreapp3.1\textAnalytics.csproj.CoreCompileInputs.cache
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\obj\Debug\netcoreapp3.1\textAnalytics.dll
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\obj\Debug\netcoreapp3.1\textAnalytics.pdb
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\obj\Debug\netcoreapp3.1\textAnalytics.genruntimeconfig.cache
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\bin\Debug\netcoreapp3.1\Azure.AI.TextAnalytics.dll
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\visual-studiop\AI-100\DEMOS\TextAnalytics\obj\Debug\netcoreapp3.1\textAnalytics.csproj.CopyComplete
