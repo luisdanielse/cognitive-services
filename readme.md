@@ -6,6 +6,8 @@ It is recommended to create a empty folder for each demo, and then execute the f
 dotnet new console --name name_of_my_app --output .
 
 
+Comment added in GitHub CodeSpaces
+
 
 
 
